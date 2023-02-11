@@ -18,5 +18,7 @@ public class GitText {
         System.out.println("Hello word");
         System.out.println("Hello world");
         System.out.println("123 word");
+        System.out.println("123");
+        System.out.println("123");
     }
 }
