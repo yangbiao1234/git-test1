@@ -21,5 +21,6 @@ public class GitText {
         System.out.println("123");
         System.out.println("123");
         System.out.println("push Hello git");
+        System.out.println("push Hello git");
     }
 }
